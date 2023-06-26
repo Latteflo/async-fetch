@@ -14,4 +14,4 @@ This repository focuses on understanding and implementing the JavaScript concept
 
 # [How Old Is Your Name ](https://how-old-is-your-name.netlify.app/)
 
-![Alt text](<assets/pr- 2.png>)
+![Alt text](<assets/pr-2.png>)
