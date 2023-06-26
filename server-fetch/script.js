@@ -4,7 +4,7 @@ let input = document.querySelector("input")
 
 button.addEventListener("click", function () {
   let dataValue = input.value
-  dataValue = dataValue.charAt(0).toUpperCase() + dataValue.slice(1).toLowerCase()
+  dataValue = dataValue.charAt(0).toUpperCase() + dataValue.slice(1).toLowerCase() 
   let country = document.querySelector("#country")
   let codeCountry = country.value
   
