@@ -10,7 +10,7 @@ This repository focuses on understanding and implementing the JavaScript concept
 ![Alt text](<assets/pr- 1.png>)
 
 ## 2. **Server Fetch**:
- This part of the project deals with fetching data from an external API. Specifically, we use the [Agify API](https://api.agify.io) to estimate the age based on a given name.
+ This part of the project deals with fetching data from an external API. Specifically, we use the [Agify API](https://api.agify.io) to estimate the age of a given name.
 
 # [How Old Is Your Name ](https://how-old-is-your-name.netlify.app/)
 
